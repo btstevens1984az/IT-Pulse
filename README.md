@@ -6,7 +6,6 @@ Live infrastructure news dashboard for IT engineers. Aggregates real RSS feeds f
 
 | View | Preview |
 |------|---------|
-| [Dashboard](#) | ![IT Pulse news dashboard with category filters](media/dashboard.png) |
 
 ![IT Pulse dashboard — live RSS feeds and category filters](media/dashboard.png)
 
